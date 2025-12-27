@@ -48,7 +48,7 @@ GET /threats
 ## 🚀 How to Run Locally
 ```bash
      mvn clean spring-boot:run
-```md
+```
 http://localhost:8080
 
 ## 📦 Deployment
