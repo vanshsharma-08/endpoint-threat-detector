@@ -65,3 +65,5 @@ Interactive API documentation is available via Swagger UI.
 
 ### Local
 http://localhost:8080/swagger-ui/index.html
+### Live
+https://endpoint-threat-detector.onrender.com/swagger-ui/index.html
