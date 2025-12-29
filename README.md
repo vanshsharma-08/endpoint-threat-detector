@@ -59,3 +59,9 @@ Each GitHub push triggers an automatic build and redeployment.
 ## 👨‍💻 Author
 
 Vansh Sharma
+## 📘 API Documentation (Swagger)
+
+Interactive API documentation is available via Swagger UI.
+
+### Local
+http://localhost:8080/swagger-ui/index.html
